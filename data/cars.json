@@ -649,5 +649,12 @@
         "model": "Impreza",
         "year": 1999,
         "color": "Green"
+    },
+    {
+        "id": "1234qwer",
+        "make": "Fiat",
+        "model": "Picanto",
+        "year": 2010,
+        "color": "black"
     }
 ]

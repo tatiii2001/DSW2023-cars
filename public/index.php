@@ -29,6 +29,7 @@ use Tati\Cars\Controllers\CarController;
       $controller->show($id);
     }
   } else {
+    $controller->create();
     $controller->list();
   }
   ?>
