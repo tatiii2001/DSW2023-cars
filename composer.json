@@ -1,15 +1,15 @@
 {
-    "name": "andres/cars",
+    "name": "tati/cars",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Andres\\Cars\\": "src/"
+            "Tati\\Cars\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Andrés Crespo",
-            "email": "acrerosj@canariaseducacion.es"
+            "name": "tati",
+            "email": "tatiiigomez2001@gmail.com"
         }
     ],
     "require": {}
