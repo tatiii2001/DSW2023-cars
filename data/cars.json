@@ -7,20 +7,6 @@
         "color": "Crimson"
     },
     {
-        "id": "3N1AB6AP1CL624249",
-        "make": "Volvo",
-        "model": "S60",
-        "year": 2011,
-        "color": "Yellow"
-    },
-    {
-        "id": "WBAFU7C55DD863595",
-        "make": "Toyota",
-        "model": "Celica",
-        "year": 2002,
-        "color": "Orange"
-    },
-    {
         "id": "1FMEU6FE3AU199922",
         "make": "Aston Martin",
         "model": "DB9",
@@ -53,27 +39,6 @@
         "make": "Geo",
         "model": "Metro",
         "year": 1992,
-        "color": "Turquoise"
-    },
-    {
-        "id": "1C4NJPBA0FD882483",
-        "make": "Chrysler",
-        "model": "200",
-        "year": 2011,
-        "color": "Teal"
-    },
-    {
-        "id": "3N1AB7AP9FL118467",
-        "make": "Mercury",
-        "model": "Mariner",
-        "year": 2007,
-        "color": "Yellow"
-    },
-    {
-        "id": "5LMJJ2J59EE039566",
-        "make": "Kia",
-        "model": "Sportage",
-        "year": 1998,
         "color": "Turquoise"
     },
     {
@@ -651,10 +616,10 @@
         "color": "Green"
     },
     {
-        "id": "1234qwer",
-        "make": "Fiat",
-        "model": "Picanto",
-        "year": 2010,
-        "color": "black"
+        "id": "hrthrth",
+        "make": "rthrt",
+        "model": "rthrtrt",
+        "year": "2010",
+        "color": "#33d728"
     }
 ]
