@@ -1,6 +1,7 @@
 {
-    "name": "tati/cars",
+    "name": "tatii/dsw2023-cars",
     "type": "project",
+    "license": "GNU/GPL",
     "autoload": {
         "psr-4": {
             "Tati\\Cars\\": "src/"
@@ -8,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "tati",
+            "name": "tatiii2001",
             "email": "tatiiigomez2001@gmail.com"
         }
     ],
